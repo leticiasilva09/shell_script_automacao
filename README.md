@@ -119,6 +119,26 @@ Funcionalidades:
 
 ---
 
+## Perguntas e Respostas
+
+### Onde usar automação?
+
+Eu usaria automação em tarefas repetitivas do sistema, como monitorar CPU, memória e disco, verificar usuários logados, atualizar o sistema e testar se sites estão online. Isso evita ter que rodar comandos manualmente toda vez.
+
+---
+
+### Qual script você criaria?
+
+Eu criaria um script de alerta automático que monitora CPU, memória e disco e avisa quando algum deles passa de um limite (por exemplo, acima de 80%). Ele também salvaria essas informações em um log.
+
+---
+
+### Como isso se aplica ao DevOps?
+
+Isso se aplica ao DevOps porque automação é essencial. Com scripts assim, dá pra reduzir trabalho manual, evitar erros e monitorar o sistema de forma contínua, o que é muito importante na gestão de servidores.
+
+---
+
 ## Logs
 
 O script gera automaticamente um arquivo:
